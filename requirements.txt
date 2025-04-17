@@ -6,3 +6,4 @@ scikit-learn
 streamlit
 folium
 streamlit-folium
+openpyxl
