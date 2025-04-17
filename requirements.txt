@@ -1,5 +1,6 @@
 joblib
 gdown
+plotly
 pandas
 scikit-learn
 streamlit
